@@ -1,5 +1,3 @@
-package Inherit_Polym;
-
 // CONSTRUCTOR CHAINING TRAP ---------------
 class Person {
     String name;

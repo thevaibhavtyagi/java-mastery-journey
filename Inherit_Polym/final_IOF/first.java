@@ -1,4 +1,4 @@
-package Inherit_Polym.final_IOF;
+package final_IOF;
 
 // USING final IN VARIABLES TO MAKE THEM CONSTANT -----
 // public class first {

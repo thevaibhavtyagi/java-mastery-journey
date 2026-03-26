@@ -1,4 +1,4 @@
-package Inherit_Polym;
+// package Inherit_Polym;
 
 // BASIC OVERRIDING + POLYMORPHISM -------------
 class Employee {

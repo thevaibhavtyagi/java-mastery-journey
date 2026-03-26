@@ -1,4 +1,4 @@
-package Inherit_Polym.final_IOF;
+package final_IOF;
 // INSTANCEOF() - PRACTICE ---------
 
 class Shape {

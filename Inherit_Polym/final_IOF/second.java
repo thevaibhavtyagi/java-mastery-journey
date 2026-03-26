@@ -1,4 +1,4 @@
-package Inherit_Polym.final_IOF;
+package final_IOF;
 // IT IS TYPE CHECKING AT RUNTIME - instanceOF()-----
 
 class Animal {}

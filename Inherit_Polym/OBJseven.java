@@ -1,4 +1,4 @@
-package Inherit_Polym;
+// package Inherit_Polym;
 
 // BASICS OF equals() AND IT'S WORKING ---------
 

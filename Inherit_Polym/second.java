@@ -1,4 +1,4 @@
-package Inherit_Polym;
+// package Inherit_Polym;
 
 // WORKING AND UNDERSTANDING MORE ON SUPER() ---------
 class Annimal {
