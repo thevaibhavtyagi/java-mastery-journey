@@ -29,3 +29,7 @@ public class static1 {
         System.out.println(m.compute(3, 4));
     }
 }
+
+
+// DEFAULT = called on objects, can be overridden
+// STATIC = called on interface name, can't be overridden
