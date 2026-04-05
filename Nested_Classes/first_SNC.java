@@ -5,7 +5,7 @@ import Nested_Classes.University.Department;
 // SIMPLE EXAMPLE OF STATIC NESTED CLASS --------
 class University {
     private static String name = "MIT";
-    private int ranking = 1;
+    // private int ranking = 1;
 
     static class Department {
         private String deptName;
