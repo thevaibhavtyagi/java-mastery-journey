@@ -15,6 +15,7 @@
 *.jar
 *.war
 *.ear
+*.ser
 
 # =========================
 # JVM Crash Logs
